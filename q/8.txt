@@ -1,0 +1,4 @@
+alphabet
+_
+			What word contains 26 letters but only 3 syllables?
+_

@@ -1,0 +1,4 @@
+20
+_
+			How many 9s are there between 1 and 100?
+_
